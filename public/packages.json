@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$55a293d37cd2e64797ed349b86ed5c6775c379c9.json": {
-            "sha1": "55a293d37cd2e64797ed349b86ed5c6775c379c9"
+        "include/all$258ad84154c7cdeeeb6b6a90f8628483c09e74c2.json": {
+            "sha1": "258ad84154c7cdeeeb6b6a90f8628483c09e74c2"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "gooody/flow-arena-addon-common",
+        "gooody/flow-arena-api-receive-trigger-module",
         "gooody/flow-arena-if-decision-module",
         "gooody/flow-arena-split-process-module",
         "gooody/flow-arena-switch-decision-module"

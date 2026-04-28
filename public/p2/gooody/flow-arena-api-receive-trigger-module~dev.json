@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "gooody/flow-arena-api-receive-trigger-module": [
+            {
+                "name": "gooody/flow-arena-api-receive-trigger-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-api-receive-trigger-module.git",
+                    "reference": "feb14721ce9d0946ad340d2b3369eb81ee4c0d03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-api-receive-trigger-module/zipball/feb14721ce9d0946ad340d2b3369eb81ee4c0d03",
+                    "reference": "feb14721ce9d0946ad340d2b3369eb81ee4c0d03",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "^1.0.0",
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:59:10+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Api Receive Trigger",
+                    "module-provider": "FlowArenaModule\\ApiReceiveTrigger\\ApiReceiveTriggerModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\ApiReceiveTrigger\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-api-receive-trigger-module/tree/1.0.2",
+                    "issues": "https://github.com/gooody/flow-arena-api-receive-trigger-module/issues"
+                }
+            }
+        ]
+    }
+}
