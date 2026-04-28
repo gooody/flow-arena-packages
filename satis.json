@@ -1,0 +1,14 @@
+{
+  "name": "gooody/flow-arena-packages-registry",
+  "homepage": "https://my-resume.gooody.pp.ua/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:gooody/flow-arena-addon-common.git"
+    }
+  ],
+  "require": {
+    "gooody/flow-arena-addon-common": "*"
+  },
+  "minimum-stability": "dev"
+}

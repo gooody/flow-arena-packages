@@ -1,0 +1,12 @@
+{
+  "require": {
+    "composer/satis": "3.x-dev"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "allow-plugins": {
+      "composer/satis": true
+    }
+  }
+}
