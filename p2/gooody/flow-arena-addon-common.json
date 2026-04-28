@@ -44,6 +44,50 @@
                     "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.0",
                     "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
                 }
+            },
+            {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:40:01+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
             }
         ]
     }

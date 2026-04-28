@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "gooody/flow-arena-switch-decision-module": [
+            {
+                "name": "gooody/flow-arena-switch-decision-module",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-switch-decision-module.git",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-switch-decision-module/zipball/0da2f619873399a087ebab2c018080bd40144335",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T21:39:26+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Switch decision",
+                    "module-provider": "FlowArenaModule\\SwitchDecision\\SwitchDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SwitchDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-switch-decision-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-switch-decision-module/issues"
+                }
+            }
+        ]
+    }
+}

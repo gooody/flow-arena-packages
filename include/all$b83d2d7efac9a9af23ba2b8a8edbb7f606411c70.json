@@ -1,0 +1,422 @@
+{
+    "packages": {
+        "gooody/flow-arena-addon-common": {
+            "1.0.0": {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/4f6857745c1faff3645427414f82410461ef23cb",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T12:27:54+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.0",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:40:01+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
+            },
+            "dev-master": {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:40:01+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
+            }
+        },
+        "gooody/flow-arena-if-decision-module": {
+            "1.0.1": {
+                "name": "gooody/flow-arena-if-decision-module",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-if-decision-module.git",
+                    "reference": "99045a389601aab3270387f7f7b1dc283b902ed1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-if-decision-module/zipball/99045a389601aab3270387f7f7b1dc283b902ed1",
+                    "reference": "99045a389601aab3270387f7f7b1dc283b902ed1",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "^1.0.0",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T21:39:47+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "If Decision",
+                    "module-provider": "FlowArenaModule\\IfDecision\\IfDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\IfDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-if-decision-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-if-decision-module/issues"
+                }
+            },
+            "dev-master": {
+                "name": "gooody/flow-arena-if-decision-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-if-decision-module.git",
+                    "reference": "99045a389601aab3270387f7f7b1dc283b902ed1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-if-decision-module/zipball/99045a389601aab3270387f7f7b1dc283b902ed1",
+                    "reference": "99045a389601aab3270387f7f7b1dc283b902ed1",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "^1.0.0",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T21:39:47+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "If Decision",
+                    "module-provider": "FlowArenaModule\\IfDecision\\IfDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\IfDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-if-decision-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-if-decision-module/issues"
+                }
+            }
+        },
+        "gooody/flow-arena-split-process-module": {
+            "1.0.1": {
+                "name": "gooody/flow-arena-split-process-module",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-split-process-module.git",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:39:16+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Split Process",
+                    "module-provider": "FlowArenaModule\\SplitProcess\\SplitProcessModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SplitProcess\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
+                }
+            },
+            "dev-master": {
+                "name": "gooody/flow-arena-split-process-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-split-process-module.git",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:39:16+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Split Process",
+                    "module-provider": "FlowArenaModule\\SplitProcess\\SplitProcessModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SplitProcess\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
+                }
+            }
+        },
+        "gooody/flow-arena-switch-decision-module": {
+            "1.0.1": {
+                "name": "gooody/flow-arena-switch-decision-module",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-switch-decision-module.git",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-switch-decision-module/zipball/0da2f619873399a087ebab2c018080bd40144335",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T21:39:26+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Switch decision",
+                    "module-provider": "FlowArenaModule\\SwitchDecision\\SwitchDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SwitchDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-switch-decision-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-switch-decision-module/issues"
+                }
+            },
+            "dev-master": {
+                "name": "gooody/flow-arena-switch-decision-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-switch-decision-module.git",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-switch-decision-module/zipball/0da2f619873399a087ebab2c018080bd40144335",
+                    "reference": "0da2f619873399a087ebab2c018080bd40144335",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T21:39:26+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Switch decision",
+                    "module-provider": "FlowArenaModule\\SwitchDecision\\SwitchDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SwitchDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-switch-decision-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-switch-decision-module/issues"
+                }
+            }
+        }
+    }
+}
