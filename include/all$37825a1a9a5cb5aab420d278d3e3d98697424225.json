@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "gooody/flow-arena-addon-common": {
+            "1.0.0": {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/4f6857745c1faff3645427414f82410461ef23cb",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T12:27:54+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.0",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
+            },
+            "dev-master": {
+                "name": "gooody/flow-arena-addon-common",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-addon-common.git",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/4f6857745c1faff3645427414f82410461ef23cb",
+                    "reference": "4f6857745c1faff3645427414f82410461ef23cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T12:27:54+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Addon Common",
+                    "module-provider": "FlowArenaModule\\AddonCommon\\AddonCommonModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\AddonCommon\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.0",
+                    "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
+                }
+            }
+        }
+    }
+}

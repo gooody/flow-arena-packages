@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$37825a1a9a5cb5aab420d278d3e3d98697424225.json": {
+            "sha1": "37825a1a9a5cb5aab420d278d3e3d98697424225"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "gooody/flow-arena-addon-common"
+    ]
+}
