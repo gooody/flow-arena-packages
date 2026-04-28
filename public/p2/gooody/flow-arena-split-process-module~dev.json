@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "gooody/flow-arena-split-process-module": [
+            {
+                "name": "gooody/flow-arena-split-process-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-split-process-module.git",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "dev-master",
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:39:16+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Split Process",
+                    "module-provider": "FlowArenaModule\\SplitProcess\\SplitProcessModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SplitProcess\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.1",
+                    "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
+                }
+            }
+        ]
+    }
+}

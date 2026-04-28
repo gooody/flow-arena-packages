@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/gooody/flow-arena-addon-common.git",
-                    "reference": "4f6857745c1faff3645427414f82410461ef23cb"
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/4f6857745c1faff3645427414f82410461ef23cb",
-                    "reference": "4f6857745c1faff3645427414f82410461ef23cb",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-addon-common/zipball/04555b5e6cafd4bd81907c220041b5078b758a8c",
+                    "reference": "04555b5e6cafd4bd81907c220041b5078b758a8c",
                     "shasum": ""
                 },
                 "require": {
                     "php": "^8.4"
                 },
-                "time": "2026-04-28T12:27:54+00:00",
+                "time": "2026-04-28T21:40:01+00:00",
                 "default-branch": true,
                 "type": "library",
                 "extra": {
@@ -42,7 +42,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.0",
+                    "source": "https://github.com/gooody/flow-arena-addon-common/tree/1.0.1",
                     "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
                 }
             }
