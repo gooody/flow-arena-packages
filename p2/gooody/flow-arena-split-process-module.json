@@ -45,6 +45,51 @@
                     "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.1",
                     "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
                 }
+            },
+            {
+                "name": "gooody/flow-arena-split-process-module",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-split-process-module.git",
+                    "reference": "ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42",
+                    "reference": "ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "^1.0.0",
+                    "php": "^8.4"
+                },
+                "time": "2026-04-28T21:59:17+00:00",
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "Split Process",
+                    "module-provider": "FlowArenaModule\\SplitProcess\\SplitProcessModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\SplitProcess\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.2",
+                    "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
+                }
             }
         ]
     }
