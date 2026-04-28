@@ -90,6 +90,55 @@
                     "issues": "https://github.com/gooody/flow-arena-addon-common/issues"
                 }
             }
+        },
+        "gooody/flow-arena-if-decision-module": {
+            "dev-master": {
+                "name": "gooody/flow-arena-if-decision-module",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gooody/flow-arena-if-decision-module.git",
+                    "reference": "52f302758703102127cd7f1bda5c349dc107cee2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-if-decision-module/zipball/52f302758703102127cd7f1bda5c349dc107cee2",
+                    "reference": "52f302758703102127cd7f1bda5c349dc107cee2",
+                    "shasum": ""
+                },
+                "require": {
+                    "gooody/flow-arena-addon-common": "^1.0.0",
+                    "php": "^8.4",
+                    "symfony/expression-language": "^8.0"
+                },
+                "time": "2026-04-28T12:32:42+00:00",
+                "default-branch": true,
+                "type": "library",
+                "extra": {
+                    "flow-arena-module": true,
+                    "module-name": "If Decision",
+                    "module-provider": "FlowArenaModule\\IfDecision\\IfDecisionModule"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "FlowArenaModule\\IfDecision\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gooody",
+                        "email": "gooody29@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/gooody/flow-arena-if-decision-module/tree/master",
+                    "issues": "https://github.com/gooody/flow-arena-if-decision-module/issues"
+                }
+            }
         }
     }
 }

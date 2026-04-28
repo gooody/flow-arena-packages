@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$37825a1a9a5cb5aab420d278d3e3d98697424225.json": {
-            "sha1": "37825a1a9a5cb5aab420d278d3e3d98697424225"
+        "include/all$7997537070ef4492a567a1f0aedbc3b60fea722f.json": {
+            "sha1": "7997537070ef4492a567a1f0aedbc3b60fea722f"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
-        "gooody/flow-arena-addon-common"
+        "gooody/flow-arena-addon-common",
+        "gooody/flow-arena-if-decision-module"
     ]
 }
