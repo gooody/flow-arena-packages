@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/gooody/flow-arena-split-process-module.git",
-                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9"
+                    "reference": "ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ea471e5c48309cab11101f31a6cc2f7becd7cec9",
-                    "reference": "ea471e5c48309cab11101f31a6cc2f7becd7cec9",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-split-process-module/zipball/ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42",
+                    "reference": "ca2ec5151f90742ac7a7c5453c533ba2dfe4cb42",
                     "shasum": ""
                 },
                 "require": {
-                    "gooody/flow-arena-addon-common": "dev-master",
+                    "gooody/flow-arena-addon-common": "^1.0.0",
                     "php": "^8.4"
                 },
-                "time": "2026-04-28T21:39:16+00:00",
+                "time": "2026-04-28T21:59:17+00:00",
                 "default-branch": true,
                 "type": "library",
                 "extra": {
@@ -43,7 +43,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.1",
+                    "source": "https://github.com/gooody/flow-arena-split-process-module/tree/1.0.2",
                     "issues": "https://github.com/gooody/flow-arena-split-process-module/issues"
                 }
             }

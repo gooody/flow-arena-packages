@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/gooody/flow-arena-switch-decision-module.git",
-                    "reference": "0da2f619873399a087ebab2c018080bd40144335"
+                    "reference": "e587a0ba41193e65683c0bb4f6e51dd34d4cbd62"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gooody/flow-arena-switch-decision-module/zipball/0da2f619873399a087ebab2c018080bd40144335",
-                    "reference": "0da2f619873399a087ebab2c018080bd40144335",
+                    "url": "https://api.github.com/repos/gooody/flow-arena-switch-decision-module/zipball/e587a0ba41193e65683c0bb4f6e51dd34d4cbd62",
+                    "reference": "e587a0ba41193e65683c0bb4f6e51dd34d4cbd62",
                     "shasum": ""
                 },
                 "require": {
-                    "gooody/flow-arena-addon-common": "dev-master",
+                    "gooody/flow-arena-addon-common": "^1.0.0",
                     "php": "^8.4",
                     "symfony/expression-language": "^8.0"
                 },
-                "time": "2026-04-28T21:39:26+00:00",
+                "time": "2026-04-28T21:59:34+00:00",
                 "default-branch": true,
                 "type": "library",
                 "extra": {
@@ -44,7 +44,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/gooody/flow-arena-switch-decision-module/tree/1.0.1",
+                    "source": "https://github.com/gooody/flow-arena-switch-decision-module/tree/1.0.2",
                     "issues": "https://github.com/gooody/flow-arena-switch-decision-module/issues"
                 }
             }
